@@ -10,6 +10,6 @@
   "author": "Derek Wierson <derek.wierson@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-
+    "node-sass": "^4.5.2"
   }
 }
